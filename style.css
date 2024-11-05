@@ -41,3 +41,12 @@ input[type=text]{
     font-weight: bold;
     padding: 8px 20px;
 }
+.hsl {
+    font-size: 14px;
+    margin: 10px;
+    height: 200px;
+    padding: 10px;
+    border: solid grey 1px;
+    width: 90%;
+    background-color: rgb(248, 234, 106);
+}
